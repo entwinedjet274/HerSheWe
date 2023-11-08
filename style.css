@@ -1,0 +1,81 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0rem;
+    Font-Family: 'Rufina', Serif;
+    Font-Size: 1rem;
+    text-align: center;
+    overflow-x: none;
+    width: auto;
+    padding: 0rem;
+  }
+  
+   
+  
+  header {
+    height: 5rem;
+    background: #4169e1;
+    margin: 0rem;
+    Font-Family: 'Rufina', Serif;
+    Font-Size: 4rem;
+    
+    
+  }
+  
+  
+  img,h1 {
+    width: 75rem;
+    height: 35rem;
+    margin: 1rem 10rem 2rem 10rem;
+    position: relative;
+  }
+  
+  
+  
+  h2 {
+     text-transform: capitalize;
+       text-align: center;
+       height: 6rem;
+    background: #4169e1;
+    
+    Font-Family: 'Rufina', Serif;
+    Font-Size: 3rem;
+  padding: 2rem 0rem 0rem 0rem;
+  
+  }
+  
+  .box-container {
+    padding: .5rem 1rem;
+  }
+  
+  .box {
+    height: 2rem;
+    width: 20rem;
+    border: solid;
+    border-color: #4169e1;
+    border-radius: 1% 1% 1% 1%;
+    
+    padding: 2rem 2rem 2rem 2rem;
+    margin: 1.5rem 42rem 1.5rem 42rem;
+    background-color: white;
+    color: black;
+    font-size: 1.3rem;
+  }
+  
+  
+  p {
+    margin: 1rem;
+  }
+  
+  h3 {
+  
+  }
+  
+    .footer {
+      height: 5rem;
+      background-color: #4169e1;
+    }
+
+    a{
+     text-decoration: no-underline;
+    }
